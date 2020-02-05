@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/Users/holm/Documents/SWT_Gruppe/Exercises/Exercise_1/Calculator/Calculator/Calculator.csproj",
+    "projectUniqueName": "/Users/holm/Documents/SWT/SWT_CALEX/Calculator/Calculator.csproj",
     "projectName": "Calculator",
-    "projectPath": "/Users/holm/Documents/SWT_Gruppe/Exercises/Exercise_1/Calculator/Calculator/Calculator.csproj",
-    "outputPath": "/Users/holm/Documents/SWT_Gruppe/Exercises/Exercise_1/Calculator/Calculator/obj/",
+    "projectPath": "/Users/holm/Documents/SWT/SWT_CALEX/Calculator/Calculator.csproj",
+    "outputPath": "/Users/holm/Documents/SWT/SWT_CALEX/Calculator/obj/",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -44,6 +44,10 @@
         "NUnitTestAdapter": {
           "target": "Package",
           "version": "[2.2.0, )"
+        },
+        "NunitXml.TestLogger": {
+          "target": "Package",
+          "version": "[2.1.41, )"
         }
       },
       "imports": [

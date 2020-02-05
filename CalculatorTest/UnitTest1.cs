@@ -1,6 +1,7 @@
+using Calculator;
 using NUnit.Framework;
 
-namespace Calculator
+namespace CalculatorTest
 {
     [TestFixture]
     public class Test
@@ -10,11 +11,11 @@ namespace Calculator
         [SetUp]
         public void Init()
         {
-           _cal = new CalculatorEx();
+            _cal = new CalculatorEx();
         }
         [Test]
          
-            public void Addition()
+        public void Addition()
         {
             Assert.That(_cal.addition(5,5),Is.EqualTo(10));
         }

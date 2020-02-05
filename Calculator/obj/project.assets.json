@@ -464,6 +464,12 @@
           "build/NUnitTestAdapter.props": {}
         }
       },
+      "NunitXml.TestLogger/2.1.41": {
+        "type": "package",
+        "build": {
+          "build/netstandard1.0/NUnitXml.TestLogger.props": {}
+        }
+      },
       "runtime.native.System/4.3.0": {
         "type": "package",
         "dependencies": {
@@ -1927,6 +1933,21 @@
         "build/nunit.util.dll",
         "nunittestadapter.2.2.0.nupkg.sha512",
         "nunittestadapter.nuspec"
+      ]
+    },
+    "NunitXml.TestLogger/2.1.41": {
+      "sha512": "fU0gXdgGmh6cR21dToymT1oYxyb/dz9cRJNmcKP9672cI89sGa3glqxxf1msb422onNImKZfWgK3G/kGRD7qDg==",
+      "type": "package",
+      "path": "nunitxml.testlogger/2.1.41",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "build/_common/Microsoft.VisualStudio.TestPlatform.Extension.NUnit.Xml.TestAdapter.dll",
+        "build/_common/Microsoft.VisualStudio.TestPlatform.Extension.NUnit.Xml.TestLogger.dll",
+        "build/net45/NUnitXml.TestLogger.props",
+        "build/netstandard1.0/NUnitXml.TestLogger.props",
+        "nunitxml.testlogger.2.1.41.nupkg.sha512",
+        "nunitxml.testlogger.nuspec"
       ]
     },
     "runtime.native.System/4.3.0": {
@@ -4647,7 +4668,8 @@
       "Microsoft.NET.Test.Sdk >= 16.5.0-preview-20200116-01",
       "NUnit >= 3.12.0",
       "NUnit3TestAdapter >= 3.16.1",
-      "NUnitTestAdapter >= 2.2.0"
+      "NUnitTestAdapter >= 2.2.0",
+      "NunitXml.TestLogger >= 2.1.41"
     ]
   },
   "packageFolders": {
@@ -4657,11 +4679,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/holm/Documents/SWT_Gruppe/Exercises/Exercise_1/Calculator/Calculator/Calculator.csproj",
+      "projectUniqueName": "/Users/holm/Documents/SWT/SWT_CALEX/Calculator/Calculator.csproj",
       "projectName": "Calculator",
-      "projectPath": "/Users/holm/Documents/SWT_Gruppe/Exercises/Exercise_1/Calculator/Calculator/Calculator.csproj",
+      "projectPath": "/Users/holm/Documents/SWT/SWT_CALEX/Calculator/Calculator.csproj",
       "packagesPath": "/Users/holm/.nuget/packages/",
-      "outputPath": "/Users/holm/Documents/SWT_Gruppe/Exercises/Exercise_1/Calculator/Calculator/obj/",
+      "outputPath": "/Users/holm/Documents/SWT/SWT_CALEX/Calculator/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -4704,6 +4726,10 @@
           "NUnitTestAdapter": {
             "target": "Package",
             "version": "[2.2.0, )"
+          },
+          "NunitXml.TestLogger": {
+            "target": "Package",
+            "version": "[2.1.41, )"
           }
         },
         "imports": [

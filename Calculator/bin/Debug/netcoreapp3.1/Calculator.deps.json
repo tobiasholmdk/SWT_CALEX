@@ -11,7 +11,8 @@
           "Microsoft.NET.Test.Sdk": "16.5.0-preview-20200116-01",
           "NUnit": "3.12.0",
           "NUnit3TestAdapter": "3.16.1",
-          "NUnitTestAdapter": "2.2.0"
+          "NUnitTestAdapter": "2.2.0",
+          "NunitXml.TestLogger": "2.1.41"
         },
         "runtime": {
           "Calculator.dll": {}
@@ -406,6 +407,7 @@
         }
       },
       "NUnitTestAdapter/2.2.0": {},
+      "NunitXml.TestLogger/2.1.41": {},
       "runtime.native.System/4.3.0": {
         "dependencies": {
           "Microsoft.NETCore.Platforms": "1.1.0",
@@ -986,6 +988,13 @@
       "sha512": "sha512-03cLhGVG29wQAQ2pmh9CF6vlRofrTs888w2bRB2DYRhRXqr5k8yCk1WSv6oG4h918wMObnzotq4LuzNcgzqieg==",
       "path": "nunittestadapter/2.2.0",
       "hashPath": "nunittestadapter.2.2.0.nupkg.sha512"
+    },
+    "NunitXml.TestLogger/2.1.41": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fU0gXdgGmh6cR21dToymT1oYxyb/dz9cRJNmcKP9672cI89sGa3glqxxf1msb422onNImKZfWgK3G/kGRD7qDg==",
+      "path": "nunitxml.testlogger/2.1.41",
+      "hashPath": "nunitxml.testlogger.2.1.41.nupkg.sha512"
     },
     "runtime.native.System/4.3.0": {
       "type": "package",
