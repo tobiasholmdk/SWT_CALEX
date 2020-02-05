@@ -867,6 +867,11 @@
         }
       },
       "Calculator/1.0.0": {
+        "dependencies": {
+          "Microsoft.NET.Test.Sdk": "16.5.0",
+          "NUnit3TestAdapter": "3.16.1",
+          "NUnit": "3.12.0"
+        },
         "runtime": {
           "Calculator.dll": {}
         }
