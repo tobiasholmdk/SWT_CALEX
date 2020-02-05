@@ -192,3 +192,6 @@
 /Users/holm/Documents/SWT/SWT_CALEX/CalculatorTest/obj/Debug/netcoreapp3.1/CalculatorTest.csproj.CopyComplete
 /Users/holm/Documents/SWT/SWT_CALEX/CalculatorTest/obj/Debug/netcoreapp3.1/CalculatorTest.dll
 /Users/holm/Documents/SWT/SWT_CALEX/CalculatorTest/obj/Debug/netcoreapp3.1/CalculatorTest.pdb
+/Users/holm/Documents/SWT/SWT_CALEX/CalculatorTest/bin/Debug/netcoreapp3.1/Calc
+/Users/holm/Documents/SWT/SWT_CALEX/CalculatorTest/bin/Debug/netcoreapp3.1/Calc.dll
+/Users/holm/Documents/SWT/SWT_CALEX/CalculatorTest/bin/Debug/netcoreapp3.1/Calc.pdb

@@ -18,6 +18,9 @@
     "frameworks": {
       "netcoreapp3.1": {
         "projectReferences": {
+          "/Users/holm/Documents/SWT/SWT_CALEX/Calc/Calc.csproj": {
+            "projectPath": "/Users/holm/Documents/SWT/SWT_CALEX/Calc/Calc.csproj"
+          },
           "/Users/holm/Documents/SWT/SWT_CALEX/Calculator/Calculator.csproj": {
             "projectPath": "/Users/holm/Documents/SWT/SWT_CALEX/Calculator/Calculator.csproj"
           }

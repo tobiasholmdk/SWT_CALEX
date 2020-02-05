@@ -1,8 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Calculator.csproj", "{ADA69366-A8C2-4B21-84C2-520AE1E5CEBA}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorTest", "CalculatorTest\CalculatorTest.csproj", "{0CD76A62-ECF1-4CE0-8B92-2534523D9D9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calc", "Calc\Calc.csproj", "{E1B8929D-8637-4F0F-97F7-3A8307A45485}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -10,13 +10,13 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{ADA69366-A8C2-4B21-84C2-520AE1E5CEBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{ADA69366-A8C2-4B21-84C2-520AE1E5CEBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{ADA69366-A8C2-4B21-84C2-520AE1E5CEBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{ADA69366-A8C2-4B21-84C2-520AE1E5CEBA}.Release|Any CPU.Build.0 = Release|Any CPU
 		{0CD76A62-ECF1-4CE0-8B92-2534523D9D9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{0CD76A62-ECF1-4CE0-8B92-2534523D9D9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0CD76A62-ECF1-4CE0-8B92-2534523D9D9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0CD76A62-ECF1-4CE0-8B92-2534523D9D9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1B8929D-8637-4F0F-97F7-3A8307A45485}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1B8929D-8637-4F0F-97F7-3A8307A45485}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1B8929D-8637-4F0F-97F7-3A8307A45485}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1B8929D-8637-4F0F-97F7-3A8307A45485}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
