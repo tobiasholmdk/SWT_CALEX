@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/Users/holm/Documents/untitled folder 2/Solution1/Calculator/Calculator.csproj",
+    "projectUniqueName": "/Users/holm/Documents/SWT/SWT_CALEX/Calculator/Calculator.csproj",
     "projectName": "Calculator",
-    "projectPath": "/Users/holm/Documents/untitled folder 2/Solution1/Calculator/Calculator.csproj",
-    "outputPath": "/Users/holm/Documents/untitled folder 2/Solution1/Calculator/obj/",
+    "projectPath": "/Users/holm/Documents/SWT/SWT_CALEX/Calculator/Calculator.csproj",
+    "outputPath": "/Users/holm/Documents/SWT/SWT_CALEX/Calculator/obj/",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

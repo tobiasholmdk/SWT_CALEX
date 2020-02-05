@@ -4629,11 +4629,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/holm/Documents/untitled folder 2/Solution1/Calculator/Calculator.csproj",
+      "projectUniqueName": "/Users/holm/Documents/SWT/SWT_CALEX/Calculator/Calculator.csproj",
       "projectName": "Calculator",
-      "projectPath": "/Users/holm/Documents/untitled folder 2/Solution1/Calculator/Calculator.csproj",
+      "projectPath": "/Users/holm/Documents/SWT/SWT_CALEX/Calculator/Calculator.csproj",
       "packagesPath": "/Users/holm/.nuget/packages/",
-      "outputPath": "/Users/holm/Documents/untitled folder 2/Solution1/Calculator/obj/",
+      "outputPath": "/Users/holm/Documents/SWT/SWT_CALEX/Calculator/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -4666,8 +4666,6 @@
             "version": "[16.5.0, )"
           },
           "NUnit3TestAdapter": {
-            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-            "suppressParent": "All",
             "target": "Package",
             "version": "[3.16.1, )"
           },
