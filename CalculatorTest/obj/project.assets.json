@@ -1226,28 +1226,11 @@
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
       },
-      "Calc/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "dependencies": {
-          "Microsoft.NET.Test.Sdk": "16.5.0",
-          "NUnit3TestAdapter": "3.16.1",
-          "nunit": "3.12.0"
-        },
-        "compile": {
-          "bin/placeholder/Calc.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Calc.dll": {}
-        }
-      },
       "Calculator/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
-          "Microsoft.NET.Test.Sdk": "16.5.0",
-          "NUnit3TestAdapter": "3.16.1",
-          "nunit": "3.12.0"
+          "Microsoft.NET.Test.Sdk": "16.5.0"
         },
         "compile": {
           "bin/placeholder/Calculator.dll": {}
@@ -4644,11 +4627,6 @@
         "system.xml.xpath.xmldocument.nuspec"
       ]
     },
-    "Calc/1.0.0": {
-      "type": "project",
-      "path": "../Calc/Calc.csproj",
-      "msbuildProject": "../Calc/Calc.csproj"
-    },
     "Calculator/1.0.0": {
       "type": "project",
       "path": "../Calculator/Calculator.csproj",
@@ -4657,7 +4635,6 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "Calc >= 1.0.0",
       "Calculator >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 16.5.0",
       "NUnit3TestAdapter >= 3.16.1",
@@ -4671,11 +4648,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/holm/Documents/SWT/SWT_CALEX/CalculatorTest/CalculatorTest.csproj",
+      "projectUniqueName": "/Users/holm/Documents/untitled folder 2/Calculator/CalculatorTest/CalculatorTest.csproj",
       "projectName": "CalculatorTest",
-      "projectPath": "/Users/holm/Documents/SWT/SWT_CALEX/CalculatorTest/CalculatorTest.csproj",
+      "projectPath": "/Users/holm/Documents/untitled folder 2/Calculator/CalculatorTest/CalculatorTest.csproj",
       "packagesPath": "/Users/holm/.nuget/packages/",
-      "outputPath": "/Users/holm/Documents/SWT/SWT_CALEX/CalculatorTest/obj/",
+      "outputPath": "/Users/holm/Documents/untitled folder 2/Calculator/CalculatorTest/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -4692,11 +4669,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "/Users/holm/Documents/SWT/SWT_CALEX/Calc/Calc.csproj": {
-              "projectPath": "/Users/holm/Documents/SWT/SWT_CALEX/Calc/Calc.csproj"
-            },
-            "/Users/holm/Documents/SWT/SWT_CALEX/Calculator/Calculator.csproj": {
-              "projectPath": "/Users/holm/Documents/SWT/SWT_CALEX/Calculator/Calculator.csproj"
+            "/Users/holm/Documents/untitled folder 2/Calculator/Calculator/Calculator.csproj": {
+              "projectPath": "/Users/holm/Documents/untitled folder 2/Calculator/Calculator/Calculator.csproj"
             }
           }
         }
@@ -4715,6 +4689,8 @@
             "version": "[16.5.0, )"
           },
           "NUnit3TestAdapter": {
+            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+            "suppressParent": "All",
             "target": "Package",
             "version": "[3.16.1, )"
           },

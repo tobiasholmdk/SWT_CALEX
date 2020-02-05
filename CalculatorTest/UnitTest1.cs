@@ -1,7 +1,7 @@
-using Calc;
+using Calculator;
 using NUnit.Framework;
 
-namespace CalculatorTest1
+namespace CalculatorTest
 {
     [TestFixture]
     public class Test

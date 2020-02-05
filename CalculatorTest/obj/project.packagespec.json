@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/Users/holm/Documents/SWT/SWT_CALEX/CalculatorTest/CalculatorTest.csproj",
+    "projectUniqueName": "/Users/holm/Documents/untitled folder 2/Calculator/CalculatorTest/CalculatorTest.csproj",
     "projectName": "CalculatorTest",
-    "projectPath": "/Users/holm/Documents/SWT/SWT_CALEX/CalculatorTest/CalculatorTest.csproj",
-    "outputPath": "/Users/holm/Documents/SWT/SWT_CALEX/CalculatorTest/obj/",
+    "projectPath": "/Users/holm/Documents/untitled folder 2/Calculator/CalculatorTest/CalculatorTest.csproj",
+    "outputPath": "/Users/holm/Documents/untitled folder 2/Calculator/CalculatorTest/obj/",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -18,11 +18,8 @@
     "frameworks": {
       "netcoreapp3.1": {
         "projectReferences": {
-          "/Users/holm/Documents/SWT/SWT_CALEX/Calc/Calc.csproj": {
-            "projectPath": "/Users/holm/Documents/SWT/SWT_CALEX/Calc/Calc.csproj"
-          },
-          "/Users/holm/Documents/SWT/SWT_CALEX/Calculator/Calculator.csproj": {
-            "projectPath": "/Users/holm/Documents/SWT/SWT_CALEX/Calculator/Calculator.csproj"
+          "/Users/holm/Documents/untitled folder 2/Calculator/Calculator/Calculator.csproj": {
+            "projectPath": "/Users/holm/Documents/untitled folder 2/Calculator/Calculator/Calculator.csproj"
           }
         }
       }

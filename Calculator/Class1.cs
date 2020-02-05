@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Calc {
+namespace Calculator {
     public class CalculatorEx {
         public double addition (double a, double b) {
             return a + b;

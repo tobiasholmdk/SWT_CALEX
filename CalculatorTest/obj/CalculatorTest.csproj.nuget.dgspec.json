@@ -1,84 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/holm/Documents/SWT/SWT_CALEX/CalculatorTest/CalculatorTest.csproj": {}
+    "/Users/holm/Documents/untitled folder 2/Calculator/CalculatorTest/CalculatorTest.csproj": {}
   },
   "projects": {
-    "/Users/holm/Documents/SWT/SWT_CALEX/Calc/Calc.csproj": {
+    "/Users/holm/Documents/untitled folder 2/Calculator/Calculator/Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/holm/Documents/SWT/SWT_CALEX/Calc/Calc.csproj",
-        "projectName": "Calc",
-        "projectPath": "/Users/holm/Documents/SWT/SWT_CALEX/Calc/Calc.csproj",
-        "packagesPath": "/Users/holm/.nuget/packages/",
-        "outputPath": "/Users/holm/Documents/SWT/SWT_CALEX/Calc/obj/",
-        "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
-        ],
-        "configFilePaths": [
-          "/Users/holm/.config/NuGet/NuGet.Config"
-        ],
-        "originalTargetFrameworks": [
-          "netcoreapp3.1"
-        ],
-        "sources": {
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "netcoreapp3.1": {
-            "projectReferences": {}
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "netcoreapp3.1": {
-          "dependencies": {
-            "Microsoft.NET.Test.Sdk": {
-              "target": "Package",
-              "version": "[16.5.0, )"
-            },
-            "NUnit3TestAdapter": {
-              "target": "Package",
-              "version": "[3.16.1, )"
-            },
-            "nunit": {
-              "target": "Package",
-              "version": "[3.12.0, )"
-            }
-          },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.100/RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "/Users/holm/Documents/SWT/SWT_CALEX/Calculator/Calculator.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "/Users/holm/Documents/SWT/SWT_CALEX/Calculator/Calculator.csproj",
+        "projectUniqueName": "/Users/holm/Documents/untitled folder 2/Calculator/Calculator/Calculator.csproj",
         "projectName": "Calculator",
-        "projectPath": "/Users/holm/Documents/SWT/SWT_CALEX/Calculator/Calculator.csproj",
+        "projectPath": "/Users/holm/Documents/untitled folder 2/Calculator/Calculator/Calculator.csproj",
         "packagesPath": "/Users/holm/.nuget/packages/",
-        "outputPath": "/Users/holm/Documents/SWT/SWT_CALEX/Calculator/obj/",
+        "outputPath": "/Users/holm/Documents/untitled folder 2/Calculator/Calculator/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -109,14 +42,6 @@
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
               "version": "[16.5.0, )"
-            },
-            "NUnit3TestAdapter": {
-              "target": "Package",
-              "version": "[3.16.1, )"
-            },
-            "nunit": {
-              "target": "Package",
-              "version": "[3.12.0, )"
             }
           },
           "imports": [
@@ -138,14 +63,14 @@
         }
       }
     },
-    "/Users/holm/Documents/SWT/SWT_CALEX/CalculatorTest/CalculatorTest.csproj": {
+    "/Users/holm/Documents/untitled folder 2/Calculator/CalculatorTest/CalculatorTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/holm/Documents/SWT/SWT_CALEX/CalculatorTest/CalculatorTest.csproj",
+        "projectUniqueName": "/Users/holm/Documents/untitled folder 2/Calculator/CalculatorTest/CalculatorTest.csproj",
         "projectName": "CalculatorTest",
-        "projectPath": "/Users/holm/Documents/SWT/SWT_CALEX/CalculatorTest/CalculatorTest.csproj",
+        "projectPath": "/Users/holm/Documents/untitled folder 2/Calculator/CalculatorTest/CalculatorTest.csproj",
         "packagesPath": "/Users/holm/.nuget/packages/",
-        "outputPath": "/Users/holm/Documents/SWT/SWT_CALEX/CalculatorTest/obj/",
+        "outputPath": "/Users/holm/Documents/untitled folder 2/Calculator/CalculatorTest/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -162,11 +87,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "/Users/holm/Documents/SWT/SWT_CALEX/Calc/Calc.csproj": {
-                "projectPath": "/Users/holm/Documents/SWT/SWT_CALEX/Calc/Calc.csproj"
-              },
-              "/Users/holm/Documents/SWT/SWT_CALEX/Calculator/Calculator.csproj": {
-                "projectPath": "/Users/holm/Documents/SWT/SWT_CALEX/Calculator/Calculator.csproj"
+              "/Users/holm/Documents/untitled folder 2/Calculator/Calculator/Calculator.csproj": {
+                "projectPath": "/Users/holm/Documents/untitled folder 2/Calculator/Calculator/Calculator.csproj"
               }
             }
           }

@@ -9,14 +9,14 @@
     <e p="$USER_HOME$/.nuget/packages/nunit3testadapter/3.16.1/build/netcoreapp2.1/NUnit3.TestAdapter.dll" t="Include" />
     <e p="$USER_HOME$/.nuget/packages/nunit3testadapter/3.16.1/build/netcoreapp2.1/NUnit3.TestAdapter.pdb" t="Include" />
     <e p="$PROJECT_DIR$" t="IncludeFlat">
-      <e p="Calc" t="IncludeRecursive">
+      <e p="Calculator" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
-        <e p="Calc.csproj" t="IncludeRecursive" />
-        <e p="Calculator.cs" t="Include" />
+        <e p="Calculator.csproj" t="IncludeRecursive" />
+        <e p="Class1.cs" t="Include" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="netcoreapp3.1" t="Include">
-              <e p="Calc.AssemblyInfo.cs" t="Include" />
+              <e p="Calculator.AssemblyInfo.cs" t="Include" />
             </e>
           </e>
         </e>
