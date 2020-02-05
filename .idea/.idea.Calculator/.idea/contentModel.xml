@@ -47,9 +47,6 @@
         </e>
         <e p="UnitTest1.cs" t="Include" />
       </e>
-      <e p="ClassLibrary1" t="IncludeRecursive">
-        <e p="ClassLibrary1.csproj" t="IncludeRecursive" />
-      </e>
       <e p="packages" t="ExcludeRecursive" />
     </e>
     <e p="$USER_HOME$/Library/Caches/Rider2019.3/extResources" t="IncludeRecursive" />

@@ -1,7 +1,7 @@
 using Calculator;
 using NUnit.Framework;
 
-namespace CalculatorTest
+namespace CalculatorTest1
 {
     [TestFixture]
     public class Test
@@ -13,11 +13,12 @@ namespace CalculatorTest
         {
             _cal = new CalculatorEx();
         }
-        [Test]
-         
-        public void Addition()
+        [TestCase(2,5,7)]
+        [TestCase(-2,5,3)]
+        [TestCase(200,5000,5200)]
+        public void Addition(double a, double b, double x)
         {
-            Assert.That(_cal.addition(5,5),Is.EqualTo(10));
+            Assert.That(_cal.addition(a,b),Is.EqualTo(x));
         }
 
         [TestCase(2,5,-3)]
@@ -42,6 +43,20 @@ namespace CalculatorTest
         public void Power(double a, double b, double x)
         {
             Assert.That(_cal.power(a,b).Equals(x));
+        }
+        [TestCase(10,5,2)]
+        [TestCase(100,20,5)]
+        [TestCase(5000,200,25)]
+        public void Div(double a, double b, double x)
+        {
+            Assert.That(_cal.div(a,b),Is.EqualTo(x));
+        }
+        [TestCase(5,2,1)]
+        [TestCase(8,4,0)]
+        [TestCase(200,5000,200)]
+        public void Mod(double a, double b, double x)
+        {
+            Assert.That(_cal.mod(a,b),Is.EqualTo(x));
         }
     }
 }

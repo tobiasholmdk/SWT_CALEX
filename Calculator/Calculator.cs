@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace Calculator {
     public class CalculatorEx {
@@ -13,6 +13,15 @@ namespace Calculator {
         }
         public double power (double a, double b) {
             return Math.Pow (a, b);
+        }
+        public double div(double a, double b)
+        {
+            return a / b;
+        }
+
+        public double mod(double a, double b)
+        {
+            return a % b;
         }
     }
 }

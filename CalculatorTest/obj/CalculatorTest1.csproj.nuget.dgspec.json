@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/holm/Documents/untitled folder 2/Solution1/Calculator/Calculator.csproj": {}
+    "/Users/holm/Documents/untitled folder 2/Solution1/CalculatorTest1/CalculatorTest1.csproj": {}
   },
   "projects": {
-    "/Users/holm/Documents/untitled folder 2/Solution1/Calculator/Calculator.csproj": {
+    "/Users/holm/Documents/untitled folder 2/Solution1/CalculatorTest1/CalculatorTest1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/holm/Documents/untitled folder 2/Solution1/Calculator/Calculator.csproj",
-        "projectName": "Calculator",
-        "projectPath": "/Users/holm/Documents/untitled folder 2/Solution1/Calculator/Calculator.csproj",
+        "projectUniqueName": "/Users/holm/Documents/untitled folder 2/Solution1/CalculatorTest1/CalculatorTest1.csproj",
+        "projectName": "CalculatorTest1",
+        "projectPath": "/Users/holm/Documents/untitled folder 2/Solution1/CalculatorTest1/CalculatorTest1.csproj",
         "packagesPath": "/Users/holm/.nuget/packages/",
-        "outputPath": "/Users/holm/Documents/untitled folder 2/Solution1/Calculator/obj/",
+        "outputPath": "/Users/holm/Documents/untitled folder 2/Solution1/CalculatorTest1/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -38,6 +38,20 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.2.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.15.1, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

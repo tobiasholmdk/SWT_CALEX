@@ -4,6 +4,8 @@
         <TargetFramework>netcoreapp3.1</TargetFramework>
 
         <IsPackable>false</IsPackable>
+
+        <RootNamespace>CalculatorTest1</RootNamespace>
     </PropertyGroup>
 
     <ItemGroup>
