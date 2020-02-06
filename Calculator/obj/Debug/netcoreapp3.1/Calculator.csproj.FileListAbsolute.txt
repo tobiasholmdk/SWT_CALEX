@@ -85,3 +85,12 @@
 /Users/holm/Documents/untitled folder 2/Calculator/Calculator/obj/Debug/netcoreapp3.1/Calculator.csproj.CopyComplete
 /Users/holm/Documents/untitled folder 2/Calculator/Calculator/obj/Debug/netcoreapp3.1/Calculator.dll
 /Users/holm/Documents/untitled folder 2/Calculator/Calculator/obj/Debug/netcoreapp3.1/Calculator.pdb
+/Users/holm/Documents/untitled folder 2/Calculator/Calculator/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.Extension.NUnit.Xml.TestLogger.dll
+/Users/holm/Documents/untitled folder 2/Calculator/Calculator/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.Extension.NUnit.Xml.TestAdapter.dll
+/Users/holm/Documents/untitled folder 2/Calculator/Calculator/bin/Debug/netcoreapp3.1/NUnit3.TestAdapter.dll
+/Users/holm/Documents/untitled folder 2/Calculator/Calculator/bin/Debug/netcoreapp3.1/NUnit3.TestAdapter.pdb
+/Users/holm/Documents/untitled folder 2/Calculator/Calculator/bin/Debug/netcoreapp3.1/nunit.engine.dll
+/Users/holm/Documents/untitled folder 2/Calculator/Calculator/bin/Debug/netcoreapp3.1/nunit.engine.api.dll
+/Users/holm/Documents/untitled folder 2/Calculator/Calculator/bin/Debug/netcoreapp3.1/Microsoft.DotNet.InternalAbstractions.dll
+/Users/holm/Documents/untitled folder 2/Calculator/Calculator/bin/Debug/netcoreapp3.1/nunit.framework.dll
+/Users/holm/Documents/untitled folder 2/Calculator/Calculator/bin/Debug/netcoreapp3.1/System.Xml.XPath.XmlDocument.dll
